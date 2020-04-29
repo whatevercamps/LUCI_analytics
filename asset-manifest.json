@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/paper-dashboard-react/static/css/main.90132cfc.chunk.css",
+    "main.js": "/paper-dashboard-react/static/js/main.8d6888fa.chunk.js",
+    "main.js.map": "/paper-dashboard-react/static/js/main.8d6888fa.chunk.js.map",
+    "runtime~main.js": "/paper-dashboard-react/static/js/runtime~main.ff95ff9f.js",
+    "runtime~main.js.map": "/paper-dashboard-react/static/js/runtime~main.ff95ff9f.js.map",
+    "static/css/2.08c0db48.chunk.css": "/paper-dashboard-react/static/css/2.08c0db48.chunk.css",
+    "static/js/2.da736606.chunk.js": "/paper-dashboard-react/static/js/2.da736606.chunk.js",
+    "static/js/2.da736606.chunk.js.map": "/paper-dashboard-react/static/js/2.da736606.chunk.js.map",
+    "index.html": "/paper-dashboard-react/index.html",
+    "precache-manifest.c157043f7e5ee836ad99a0ab3fd024fd.js": "/paper-dashboard-react/precache-manifest.c157043f7e5ee836ad99a0ab3fd024fd.js",
+    "service-worker.js": "/paper-dashboard-react/service-worker.js",
+    "static/css/2.08c0db48.chunk.css.map": "/paper-dashboard-react/static/css/2.08c0db48.chunk.css.map",
+    "static/css/main.90132cfc.chunk.css.map": "/paper-dashboard-react/static/css/main.90132cfc.chunk.css.map",
+    "static/media/demo.css": "/paper-dashboard-react/static/media/SourceSansPro-SemiBold.774c05cc.ttf",
+    "static/media/ayo-ogunseinde-2.jpg": "/paper-dashboard-react/static/media/ayo-ogunseinde-2.bfc688ca.jpg",
+    "static/media/clem-onojeghuo-2.jpg": "/paper-dashboard-react/static/media/clem-onojeghuo-2.bb4b9ac9.jpg",
+    "static/media/damir-bosnjak.jpg": "/paper-dashboard-react/static/media/damir-bosnjak.a6f24e7d.jpg",
+    "static/media/joe-gardner-2.jpg": "/paper-dashboard-react/static/media/joe-gardner-2.76ff47ae.jpg",
+    "static/media/mike.jpg": "/paper-dashboard-react/static/media/mike.aab414f7.jpg",
+    "static/media/paper-dashboard.scss?v=1.1.0": "/paper-dashboard-react/static/media/nucleo-icons.f32ed5ad.eot"
+  }
+}
